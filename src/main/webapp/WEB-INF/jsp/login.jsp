@@ -15,8 +15,8 @@
     <meta charset="utf-8">
     <title>Log in</title>
     <%--<link href="${contextPath}/resources/css/bootstrap.css" rel="stylesheet">--%>
-    <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/common.css" rel="stylesheet">
+    <%--<link href="css/bootstrap.css" rel="stylesheet">--%>
+    <%--<link href="css/common.css" rel="stylesheet">--%>
 </head>
 <body>
 <div class="container">

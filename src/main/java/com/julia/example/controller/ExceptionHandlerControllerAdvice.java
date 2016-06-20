@@ -18,7 +18,7 @@ public class ExceptionHandlerControllerAdvice {
     private static Logger LOGGER = LoggerFactory.getLogger(ExceptionHandlerControllerAdvice.class);
 
     @ExceptionHandler(NoSuchElementException.class)
-    @ResponseStatus(value = HttpStatus.NOT_FOUND, reason = "No such user exists")
+    @ResponseStatus(value = HttpStatus.NOT_FOUND)//, reason = "No such user exists"
     public String handleNoSuchElementException(NoSuchElementException e) {
         return e.getMessage();
     }

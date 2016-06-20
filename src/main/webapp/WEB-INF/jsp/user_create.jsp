@@ -8,8 +8,8 @@
 <head>
     <meta charset="utf-8">
     <title>Create a new user</title>
-    <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/common.css" rel="stylesheet">
+    <%--<link href="css/bootstrap.css" rel="stylesheet">--%>
+    <%--<link href="css/common.css" rel="stylesheet">--%>
 </head>
 <body>
 <div class="container">
